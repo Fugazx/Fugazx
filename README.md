@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I am a Colombian biologist, now I am migrating to data analysis. I have intermediate excel knowledge, I started studying SQL and Python (still in process). This account was born out of a suggestion from my current Data Analytics course at Cisco, so, I accept help on this path. 
 <!--
 **Fugazx/Fugazx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
