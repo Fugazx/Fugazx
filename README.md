@@ -3,8 +3,8 @@
 I am a Colombian biologist 🦋, now I am migrating to data analysis 💻. I have intermediate excel knowledge, I started studying SQL and Python (still in process). This account was born out of a suggestion from my current Data Analytics course at Cisco, so, I accept help on this path 🚀. 
 
 
-B2 english
-Critical Thinking
+B2 english || 
+Critical Thinking ||
 I am good at public speaking
 
 <!--
